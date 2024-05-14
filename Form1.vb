@@ -19,13 +19,10 @@ Public Class Form1
 
     Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles TextBox2.TextChanged
 
-        TextBox2.UseSystemPasswordChar = True
-        TextBox3.UseSystemPasswordChar = True
-
 
         ProgressBar1.Maximum = 12
 
-        If TextBox2.Text.Contains("@") Or TextBox2.Text.Contains("#") Or TextBox2.Text.Contains("*") Then
+        If TextBox2.Text.Contains("A") Or TextBox2.Text.Contains("B") Or TextBox2.Text.Contains("C") Or TextBox2.Text.Contains("D") Then
             If TextBox2.Text.Length <= 12 Then
                 ProgressBar1.Value = TextBox2.Text.Length
             Else
@@ -66,7 +63,6 @@ Public Class Form1
         End If
 
     End Sub
-
     ' Function to retrieve usernames ArrayList
     Public Function GetUsernames() As ArrayList
         Return usernames
@@ -86,7 +82,6 @@ Public Class Form1
     End Sub
 
     Private Sub CheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox1.CheckedChanged
-
         If CheckBox1.Checked Then
             TextBox2.UseSystemPasswordChar = True
             TextBox3.UseSystemPasswordChar = True
@@ -108,5 +103,10 @@ Public Class Form1
 
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
 
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        TextBox2.UseSystemPasswordChar = True
+        TextBox3.UseSystemPasswordChar = True
     End Sub
 End Class

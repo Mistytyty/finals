@@ -27,6 +27,36 @@ PointOfSale
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PointOfSale.My.Resources.Resources.java">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PointOfSale.My.Resources.Resources.review1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PointOfSale.My.Resources.Resources.review2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PointOfSale.My.Resources.Resources.review3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PointOfSale.My.Resources.Resources.review4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PointOfSale.My.Resources.Resources.review5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PointOfSale.My.Resources.Resources.safe_removebg_preview__1_">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

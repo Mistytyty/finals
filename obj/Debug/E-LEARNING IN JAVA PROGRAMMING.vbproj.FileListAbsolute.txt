@@ -1,0 +1,15 @@
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\bin\Debug\PointOfSale.xml
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\E-LEARNING IN JAVA PROGRAMMING.vbproj.AssemblyReference.cache
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form1.resources
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form2.resources
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form3.resources
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Resources.resources
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\E-LEARNING IN JAVA PROGRAMMING.vbproj.GenerateResource.cache
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\E-LEARNING IN JAVA PROGRAMMING.vbproj.CoreCompileInputs.cache
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.xml
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form4.resources

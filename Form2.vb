@@ -11,7 +11,6 @@ Public Class Form2
         passwords = passwordsList
     End Sub
 
-    Public Property Module1 As Object
     Private Sub Label4_Click(sender As Object, e As EventArgs) Handles Label4.Click
 
     End Sub
@@ -24,6 +23,9 @@ Public Class Form2
 
         If usernames.Contains(username) AndAlso passwords.Contains(password) Then
             MessageBox.Show("Login successful!")
+            Me.Hide()
+            Form3.Show()
+
         Else
             MessageBox.Show("Invalid username or password. Please try again.")
         End If
