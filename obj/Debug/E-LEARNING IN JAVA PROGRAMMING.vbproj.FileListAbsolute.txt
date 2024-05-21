@@ -13,3 +13,6 @@ C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
 C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.xml
 C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
 C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form4.resources
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form5.resources
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form6.resources
+C:\Users\PC17\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form7.resources

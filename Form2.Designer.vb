@@ -58,7 +58,7 @@ Partial Class Form2
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Trebuchet MS", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(293, 513)
+        Me.Button2.Location = New System.Drawing.Point(76, 516)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(150, 41)
         Me.Button2.TabIndex = 11
@@ -68,7 +68,7 @@ Partial Class Form2
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Trebuchet MS", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(76, 513)
+        Me.Button1.Location = New System.Drawing.Point(293, 516)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(150, 41)
         Me.Button1.TabIndex = 10

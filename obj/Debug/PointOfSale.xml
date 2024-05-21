@@ -32,6 +32,31 @@ PointOfSale
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:PointOfSale.My.Resources.Resources.lesson2_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PointOfSale.My.Resources.Resources.lesson2_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PointOfSale.My.Resources.Resources.lesson2_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PointOfSale.My.Resources.Resources.lesson2_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PointOfSale.My.Resources.Resources.lesson2_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:PointOfSale.My.Resources.Resources.review1">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
